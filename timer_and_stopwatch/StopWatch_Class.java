@@ -1,5 +1,9 @@
 package timer_and_stopwatch;
 
+/**
+ *
+ * @author Prasad Kocherla
+ */
 @SuppressWarnings("serial")
 public class StopWatch_Class extends javax.swing.JFrame {
 
